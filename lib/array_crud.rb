@@ -5,7 +5,7 @@ end
 def create_an_array
   ["John", "Paul", "George", "Ringo"]
 end
-
+p create_an_array
 def add_element_to_end_of_array(array, element)
   
 end
